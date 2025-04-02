@@ -1,6 +1,6 @@
 # Marci - Garden Expert
 
-`Python` `Ollama-Qwen2.5:7b` `LangChain` `LangGraph` `TorchVision` `FastAPI` 
+`Python` `Ollama-Qwen2.5:7b` `Elevenlabs` `Tavily` `LangChain` `LangGraph` `TorchVision` `FastAPI` 
 
 I built a graph agent for help you with your plants, she can see images by a vision classifier model and respond to your questions based on a web search, she is so funny and conversationable with its special chat memory, she can speak with you by her voice via TTS model.
 
