@@ -4,6 +4,8 @@ I built a graph agent for help you with your plants, she can see images by a vis
 
 ## Workflow
 
+[![Watch the video](https://img.youtube.com/vi/rMUycP_cp9g/maxresdefault.jpg)](https://youtu.be/rMUycP_cp9g?si=hJpjAAK6S47OJt_j)
+
 ### 1. Router-Vision: Image Analysis for Flower Recognition
 
 Mimicking human perception, Marci begins by processing visual input. A fine-tuned ResNet-18 network analyzes user-uploaded images, extracting the flower species. This label serves as the foundation for the chatbot (Marci's brain) to generate relevant responses.
