@@ -41,3 +41,9 @@ Marci's response generation incorporates a mechanism for managing conversation h
 *Trials*
 
 <img src="src\classifier\trials.png" style="width: 600px">
+
+---
+
+## Audio
+
+*I integerated elevenlabs TTS model with a sound seems to be marci*
