@@ -1,12 +1,18 @@
 # Marci - Garden Expert
 
+`Python` `Ollama-Qwen2.5:7b` `LangChain` `LangGraph` `TorchVision` `FastAPI` 
+
 I built a graph agent for help you with your plants, she can see images by a vision classifier model and respond to your questions based on a web search, she is so funny and conversationable with its special chat memory, she can speak with you by her voice via TTS model.
+
+---
 
 <a href="https://youtu.be/YMwZKGr0sYY?si=zUmVwcNQi0KKkxno">
   <img src="marci.png" alt="Watch the video">
 </a>
 
-*You can watch marci here.😊*
+*You can watch marci here.😊* [Video link](https://youtu.be/YMwZKGr0sYY?si=zUmVwcNQi0KKkxno)
+
+---
 
 ## Workflow
 
@@ -21,3 +27,15 @@ Marci's decision-making process utilizes the REACT pattern to dynamically choose
 ### 3. Contextual Memory: Selective Clipping and LLM Summarization
 
 Marci's response generation incorporates a mechanism for managing conversation history. When the message count surpasses two, the system retains the most recent two messages in their original form. The older messages are then processed by the LLM to create a concise summary, ensuring relevant context is maintained without exceeding memory constraints.
+
+---
+
+## Vsion Training
+
+### Initially Training Resnet-18 on 2 types of flowers **Roses** and **Sunflowers**.
+
+<img src="metrics.png">
+
+### Trials
+
+<img src="src\classifier\trials.png" style="max-width: 600px">
