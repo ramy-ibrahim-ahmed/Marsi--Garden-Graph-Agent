@@ -2,6 +2,12 @@
 
 I built a graph agent for help you with your plants, she can see images by a vision classifier model and respond to your questions based on a web search, she is so funny and conversationable with its special chat memory, she can speak with you by her voice via TTS model.
 
+<a href="https://youtu.be/YMwZKGr0sYY?si=zUmVwcNQi0KKkxno">
+  <img src="marci.png" alt="Watch the video">
+</a>
+
+*You can watch marci here.😊*
+
 ## Workflow
 
 ### 1. Router-Vision: Image Analysis for Flower Recognition
