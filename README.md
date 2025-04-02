@@ -38,4 +38,4 @@ Marci's response generation incorporates a mechanism for managing conversation h
 
 *Trials*
 
-<img src="src\classifier\trials.png" style="max-width: 400px">
+<img src="src\classifier\trials.png" style="max-width: 200px">
