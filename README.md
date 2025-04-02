@@ -4,7 +4,7 @@ I built a graph agent for help you with your plants, she can see images by a vis
 
 ## Workflow
 
-[![Watch the video](https://img.youtube.com/vi/rMUycP_cp9g/maxresdefault.jpg)](https://youtu.be/rMUycP_cp9g?si=hJpjAAK6S47OJt_j)
+[![Watch the video](https://youtu.be/rMUycP_cp9g?si=hJpjAAK6S47OJt_j)
 
 ### 1. Router-Vision: Image Analysis for Flower Recognition
 
