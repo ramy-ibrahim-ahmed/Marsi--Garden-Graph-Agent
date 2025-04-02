@@ -32,6 +32,6 @@ Marci's response generation incorporates a mechanism for managing conversation h
 
 ## Vsion Training
 
-### Initially Training Resnet-18 on 2 types of flowers **Roses** and **Sunflowers**.
+*Initially Training Resnet-18 on 2 types of flowers **Roses** and **Sunflowers**.*
 
 <img src="metrics.png">
